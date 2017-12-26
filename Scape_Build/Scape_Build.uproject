@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.18",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Scape_Build",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

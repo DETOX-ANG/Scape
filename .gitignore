@@ -1,0 +1,17 @@
+#######################
+# Unrel Derived Files #
+#######################
+*/DerivedDataCache
+*/Binaries
+*/Saved
+*/Build
+*/Intermediate
+Scape_Build/Content/StarterContent/
+
+###############################
+# Visual Studio Derived Files #
+###############################
+*VC.db
+*.opendb
+*.db-shm
+*.db-wal
